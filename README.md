@@ -1,4 +1,4 @@
-# Frontend Mentor - Project tracking intro component
+# Frontend Mentor - Pricing component with toggle
 
 ![Design preview for the Project tracking intro component coding challenge](./design/desktop-preview.jpg)
 
